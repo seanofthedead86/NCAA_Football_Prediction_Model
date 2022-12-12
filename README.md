@@ -1,8 +1,8 @@
-NCAA Football Prediction App
+#NCAA Football Prediction App
 
 This is a series of notebooks created in Google Colab, using the College Football Data (CFBD) Python API (https://pypi.org/project/cfbd/), to predict the margin and score of FBS games. 
 
-team_game_stats:
+##team_game_stats:
 This notebook accesses the CFBD Games API to retrieve the stats for each game in a specified year and saves that data to a CSV files.
 
 team_adv_stats:
