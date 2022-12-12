@@ -18,4 +18,4 @@ score_prediciton_model
 This notebook works the same as the margin_prediction_model expect the model is trained the find the final point’s total of the home team.
 
 ncaa_prediction_app
-In this notebook, the margin and score models are inputted and specified data is first input into the margin model. The data with the predicted margins is then inputted in to the score model. The final information to predict the score of a game contains the predicted home score, the predicted margin, and then the away team score is the difference between the predicted home score and predicted margin.  
+In this notebook, the margin and score models are inputted and specified data is first input into the margin model. The data with the predicted margins is then inputted in to the score model. The final information to predict the score of a game contains the predicted home score, the predicted margin, and then the away team score is the difference between the predicted home score and predicted margin. 
